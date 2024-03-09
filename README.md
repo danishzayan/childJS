@@ -49,7 +49,6 @@ ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis r
 - 🔍🔎 **Conditional Statements:** Use emojis for if-else statements (e.g., 🔍 if condition then).
 - 🔁 **Loops:** Create loops using emojis (e.g., 🔁 loop numTimes times).
 
-
 ### Here's an example of highlighting syntax for ChildJS🧒:
 ```javascript
 // Variables
@@ -86,14 +85,13 @@ ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis r
 
 ## Contributing:
 
-ChildJS is an open-source project, and contributions from the community are highly appreciated! Here's how you can contribute:
+- Any contributions you make are **greatly appreciated**.
+- Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
 
-1. **Fork the ChildJS Repository:** Fork the ChildJS repository to your GitHub account.
-2. **Make Changes:** Make changes, improvements, or fixes in your forked repository.
-3. **Submit a Pull Request:** Submit a pull request to the main ChildJS repository, clearly explaining the changes you've made.
-4. **Engage with the Community:** Participate in discussions, review pull requests, and collaborate with the community to enhance the project together.
-
-Let's build something amazing together! Your contributions are invaluable to the growth and success of ChildJS.
-
+## Project Contributors 🌟
+Thanks a lot for spending your time helping **ChildJS🧒** grow. Thanks a lot! Keep rocking 🎉 </p><br />
+<a href="https://github.com/danishzayan/childJS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=danishzayan/childJS" />
+</a>
 
 
