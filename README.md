@@ -8,8 +8,8 @@
 4. [Getting Started](#getting-started)
 5. [Syntax and Usage](#syntax-and-usage)
 6. [Contributing](#contributing)
-7. [Support and Feedback](#support-and-feedback)
-8. [License](#license)
+<!-- 7. [Support and Feedback](#support-and-feedback) -->
+<!-- 8. [License](#license) -->
 
 ## Introduction:
 Welcome to **ChildJS🧒**, an open-source project aimed at introducing children to the world of programming through a simplified and playful JavaScript-like language called babyLanguage. ChildJS provides a fun and engaging platform for children to learn programming concepts in a friendly and intuitive way.
@@ -18,16 +18,56 @@ Welcome to **ChildJS🧒**, an open-source project aimed at introducing children
 ChildJS is designed to be a beginner-friendly environment where children can explore programming concepts using simple syntax and familiar emojis. The project focuses on creating a learning playground that encourages creativity, experimentation, and problem-solving skills.
 
 ## Key Features:
+**Features of ChildJS Playground:**
+1. 💻 **Interactive Environment:**
+   - Create an interactive playground environment for children to write and execute babyLanguage code in real-time.
+   - Provide a user-friendly interface with syntax highlighting and error handling to enhance the coding experience.
 
-👶 **babyLanguage Syntax:** ChildJS uses a simplified syntax with emojis to represent programming concepts, making it easy for children to understand and learn.
+2. 🎨 **Visual Editor:**
+   - Incorporate a canvas-based whiteboard interface, allowing children to visualize their code execution dynamically.
+   - Support hand-drawn-like style elements to make coding feel more creative and engaging.
 
-🎮 **Interactive Playground:** ChildJS provides an interactive playground where children can write and execute babyLanguage code in real-time, seeing immediate results.
+3. 🌓 **Dark Mode:**
+   - Implement a dark mode option to cater to different preferences and ensure accessibility in various lighting conditions.
 
-📚 **Learning Resources:** The project offers educational resources, tutorials, and examples to help children grasp programming concepts and apply them creatively.
+4. 🏗️ **Customization:**
+   - Allow customization of the playground interface, including themes, fonts, and editor settings, to suit individual preferences.
 
-🤝 **Community Engagement:** ChildJS fosters a supportive and collaborative community where children can share their projects, ask questions, and learn from each other.
+5. 📷 **Image Support:**
+   - Integrate image support to enable children to upload and manipulate images within their projects, fostering creativity.
 
-♿ **Accessibility:** ChildJS is designed to be accessible to children of all backgrounds and abilities, with features to accommodate diverse learning styles and needs.
+6. 😀 **Shape Libraries:**
+   - Provide a library of pre-defined shapes and symbols for easy drag-and-drop usage, enhancing visual representation in projects.
+
+7. 👅 **Localization (i18n):**
+   - Support multiple languages to make the playground accessible to children from diverse linguistic backgrounds.
+
+8. 🖼️ **Export Options:**
+   - Enable export functionality to save projects as PNG, SVG, or clipboard-compatible formats, allowing children to share their creations easily.
+
+9. 💾 **Open Format:**
+   - Save projects in an open format `.childjs` to ensure compatibility across platforms and facilitate collaboration.
+
+10. ⚒️ **Wide Range of Tools:**
+    - Offer a variety of drawing tools such as rectangle, circle, arrow, line, free-draw, and eraser for creating diverse projects.
+
+11. ➡️ **Arrow-Binding & Labeled Arrows:**
+    - Implement arrow-binding and labeled arrows functionality to enhance visual communication and clarity in projects.
+
+12. 🔙 **Undo / Redo:**
+    - Provide undo and redo capabilities to allow children to experiment freely without fear of making mistakes.
+
+13. 🔍 **Zoom and Panning:**
+    - Support zoom and panning features to enable children to navigate and explore their projects easily, even on larger canvases.
+
+<!-- **Requirements:**
+- The playground should be accessible via web browsers without requiring any downloads or installations.
+- Ensure compatibility with popular web browsers such as Chrome, Firefox, Safari, and Edge.
+- Implement responsive design principles to ensure usability on various screen sizes, including desktops, tablets, and smartphones.
+- Provide clear and concise documentation with tutorials, examples, and usage guidelines to assist children in using the playground effectively.
+- Prioritize performance optimizations to maintain smooth and responsive interactions, even with complex projects.
+- Foster a safe and inclusive community environment with moderation features to prevent misuse and promote positive interactions among users. -->
+
 
 ## Getting Started:
 
@@ -42,12 +82,12 @@ To start using ChildJS, follow these steps:
 
 ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis representing programming concepts. Here are some key syntax elements:
 
-- 🍼 **Variables:** Declare variables using emojis (e.g., 🍼 varName = value;).
-- 💻 **Output:** Display messages using emojis (e.g., 💻 display "Hello, World!";).
-- 🔤 **Input:** Take input and assign it to variables using emojis (e.g., 🔤 varName = input;).
-- ➕➖✖️➗ **Arithmetic Operations:** Perform basic arithmetic operations using emojis (e.g., ➕ varName = num1 + num2;).
-- 🔍🔎 **Conditional Statements:** Use emojis for if-else statements (e.g., 🔍 if condition then).
-- 🔁 **Loops:** Create loops using emojis (e.g., 🔁 loop numTimes times).
+- 🍼 **Variables:** Declare variables using emojis e.g., `🍼 varName = value;`
+- 💻 **Output:** Display messages using emojis e.g., `💻 display "Hello, World!";`
+- 🔤 **Input:** Take input and assign it to variables using emojis e.g., `🔤 varName = input;`
+- ➕➖✖️➗ **Arithmetic Operations:** Perform basic arithmetic operations using emojis e.g., `➕ varName = num1 + num2;`
+- 🔍🔎 **Conditional Statements:** Use emojis for if-else statements e.g., `🔍 if condition then`
+- 🔁 **Loops:** Create loops using emojis e.g., `🔁 loop numTimes times`
 
 ### Here's an example of highlighting syntax for ChildJS🧒:
 ```javascript
