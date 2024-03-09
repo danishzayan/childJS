@@ -1,4 +1,4 @@
-![DesignbyDanishKamal](https://github.com/danishzayan/childJS/assets/46997504/6c317fa1-bf62-45ba-a3cc-d3b4a814b0ec)
+![ChildJSbyDanishKamal](https://github.com/danishzayan/childJS/assets/46997504/f7417e35-8154-4935-9bfd-d94a7f61017c)
 ## Table of Contents
 
 1. [Introduction](#introduction)
