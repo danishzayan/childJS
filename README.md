@@ -79,7 +79,7 @@ To start using ChildJS, follow these steps:
 
 ## Syntax and Usage:
 
-ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis representing programming concepts. Here are some key syntax elements:
+ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis representing programming concepts.
 
 - 🍼 **Variables:** Declare variables using emojis e.g., `🍼 varName = value;`
 - 💻 **Output:** Display messages using emojis e.g., `💻 display "Hello, World!";`
