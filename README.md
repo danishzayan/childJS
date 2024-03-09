@@ -43,7 +43,7 @@ To start using ChildJS, follow these steps:
 ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis representing programming concepts. Here are some key syntax elements:
 
 - 🍼 **Variables:** Declare variables using emojis (e.g., 🍼 varName = value;).
-- 🎤 **Output:** Display messages using emojis (e.g., 🎤 display "Hello, World!";).
+- 💻 **Output:** Display messages using emojis (e.g., 💻 display "Hello, World!";).
 - 🔤 **Input:** Take input and assign it to variables using emojis (e.g., 🔤 varName = input;).
 - ➕➖✖️➗ **Arithmetic Operations:** Perform basic arithmetic operations using emojis (e.g., ➕ varName = num1 + num2;).
 - 🔍🔎 **Conditional Statements:** Use emojis for if-else statements (e.g., 🔍 if condition then).
@@ -56,7 +56,7 @@ ChildJS uses a simple and intuitive syntax inspired by JavaScript, with emojis r
 🍼 varName = value;   // Declare a variable with value
 
 // Output
-🎤 display "message";   // Display a message
+💻 display "message";   // Display a message
 
 // Input
 🔤 varName = input;   // Take input and assign to variable
